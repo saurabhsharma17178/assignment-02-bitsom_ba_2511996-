@@ -1,4 +1,4 @@
-# assignment-02-bitsom_ba_2511996-
+# assignment-02-bitsom_ba_2511996
 # Data Engineering Assignment
 
 ## Parts Completed
